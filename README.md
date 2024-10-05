@@ -1,4 +1,5 @@
 # C-WXbot
+[视频号助手](https://channels.weixin.qq.com/login.html) 自动扫码登录脚本
 
 # 原理
 
