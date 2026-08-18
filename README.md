@@ -1,3 +1,5 @@
+
+
 # C-WXbot
 [视频号助手](https://channels.weixin.qq.com/login.html) 自动扫码登录脚本
 
@@ -38,4 +40,4 @@ python main.py
 
 # 应用场景
 
-自动发布视频：在 wx - CWX.py 文件中，已有发布视频的示例（被注释掉的代码），如需要可以自行调整
+自动发布视频：在 wx/CWX.py 文件中，已有发布视频的示例（被注释掉的代码），如需要可以自行调整
